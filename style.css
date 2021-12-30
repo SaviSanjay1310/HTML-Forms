@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Saira+Condensed:wght@100&display=swap');
+body {
+    background: linear-gradient(to right,rgba(189, 12, 212, 0.836), rgba(111, 105, 189, 0.856),
+    rgba(22, 170, 175, 0.445),rgba(189, 12, 212, 0.836));
+}
+.container {
+    margin: 70px;;
+    height: 100px;
+    width: auto;
+    justify-content: center;
+  }
+  
